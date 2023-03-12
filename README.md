@@ -1,9 +1,10 @@
 <h1 align="center">Hi 👋, I'm Lukas</h1>
 <h3 align="center">I'm from Belguim, I'm 20 years old and like development from websites, (mobile/desktop) applications, games & design from those.</h3>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Socials:</h3>
 <p align="left">
 <a href="https://codepen.io/sidge4real" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="sidge4real" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/sidge/" target="blank"><img align="center" src="https://content.linkedin.com/content/dam/me/brand/en-us/brand-home/logos/In-Blue-Logo.png.original.png" alt="sidge4real" height="30" width="40" /></a>
 <a href="https://twitter.com/sidge4real" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sidge4real" height="30" width="40" /></a>
 <a href="https://instagram.com/sidge4rl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sidge4rl" height="30" width="40" /></a>
 </p>
