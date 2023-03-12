@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Sidge</h1>
-<h3 align="center">I'm from Belguim and like development from websites, (mobile/desktop) applications, games & design from those.</h3>
+<h1 align="center">Hi 👋, I'm Lukas</h1>
+<h3 align="center">I'm from Belguim, I'm 20 years old and like development from websites, (mobile/desktop) applications, games & design from those.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
