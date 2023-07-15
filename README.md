@@ -13,9 +13,10 @@ I study programming in highschool in Belguim.
 
 - Node
 - Typescript/Javascript
-- C# (OOP)
+- C#
 - Express
-- MongoDB (NoSQL)
+- MongoDB
 - mySQL
 - React & angular
 - HTML/CSS
+- Python
