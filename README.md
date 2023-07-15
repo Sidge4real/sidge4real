@@ -17,6 +17,6 @@ I study programming in highschool in Belguim.
 - Express
 - MongoDB
 - mySQL
-- React & angular
+- React & angular (basics)
 - HTML/CSS
 - Python
