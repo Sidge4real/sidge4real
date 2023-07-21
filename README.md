@@ -1,3 +1,6 @@
+[checkout]: https://dev.to/envoy_/150-badges-for-github-pnk
+
+
 [![forks][forks-shield]][forks-url]
 [![contributors][contributors-shield]][contributors-url]
 [![Start][stars-shield]][stars-url]
@@ -21,12 +24,21 @@ At the moment sometimes active working in [stackblitz](https://stackblitz.com/@S
 [![yt][yt-shield]][yt-url]
 
 ## 📱Technology
+programming languages I use:
+
+[![typescript][typescript]][typescript-url]
+[![javascript][javascript]][javascript-url]
+[![python][python]][python-url]
+
+
 At the moment I'm learning the frameworks of web development.
 
 [![React][React.js]][React-url]
 [![Angular][Angular.io]][Angular-url]
 [![Bootstrap][Bootstrap.com]][Bootstrap-url]
 [![JQuery][JQuery.com]][JQuery-url]
+
+
 
 - Node
 - Typescript/Javascript
@@ -75,3 +87,10 @@ At the moment I'm learning the frameworks of web development.
 [Bootstrap-url]: https://getbootstrap.com
 [JQuery.com]: https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white
 [JQuery-url]: https://jquery.com 
+
+[typescript]: https://shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=FFF&style=flat-square
+[typescript-url]: https://www.typescriptlang.org/
+[javascript]: https://shields.io/badge/JavaScript-3178C6?logo=JavaScript&logoColor=FFF&style=flat-square&color=yellow
+[javascript-url]: https://www.w3schools.com/js/
+[python]: https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white
+[python-url]: https://www.typescriptlang.org/
