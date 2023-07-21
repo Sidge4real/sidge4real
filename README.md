@@ -1,10 +1,3 @@
-[![forks][forks-badge]][forks-url]
-[![contributors][contributors-badge]][contributors-url]
-[![stars][stars-badge]][stars-url]
-[![issues][issues-badge]][issues-url]
-
-
-
 ## 👋Introduction
 
 Allow me to introduce myself. My name is Lukas, and I'm a 20-year-old individual born in 2002. I would describe myself as ambitious, creative, and persistent, always striving to achieve my goals.
