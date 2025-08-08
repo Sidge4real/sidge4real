@@ -1,4 +1,4 @@
-# Hi there, I’m Sidge 👋
+# Hi there, I’m Lukas Van der Spiegel 👋
 
 **Professional & Creative Software Developer**
 
