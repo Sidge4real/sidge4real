@@ -8,8 +8,4 @@ Most of my proudest projects were developed for companies and are not publicly a
 
 Outside of coding, you’ll find me on the karting track or sim-racing online—I’m an avid F1 and Le Mans fan, always chasing the next adrenaline rush!
 
-Let’s connect!
-
-[![linkedin][linkedin-badge]][linkedin-url]
-
-[linkedin-badge]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&color=blue
+Let’s connect! https://www.linkedin.com/in/sidge
